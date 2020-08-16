@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\bin\Debug\MK7Kcl2Obj_CreateMtl.exe.config
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\bin\Debug\MK7Kcl2Obj_CreateMtl.exe
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\bin\Debug\MK7Kcl2Obj_CreateMtl.pdb
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\obj\Debug\MK7Kcl2Obj_CreateMtl.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\obj\Debug\MK7Kcl2Obj_CreateMtl.Form1.resources
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\obj\Debug\MK7Kcl2Obj_CreateMtl.Properties.Resources.resources
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\obj\Debug\MK7Kcl2Obj_CreateMtl.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\obj\Debug\MK7Kcl2Obj_CreateMtl.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\obj\Debug\MK7Kcl2Obj_CreateMtl.exe
+C:\Users\User\source\repos\MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl\obj\Debug\MK7Kcl2Obj_CreateMtl.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MK7Kcl2Obj_CreateMtl", "MK7Kcl2Obj_CreateMtl\MK7Kcl2Obj_CreateMtl.csproj", "{098180C9-1A6A-40E0-B981-7417103F1F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{098180C9-1A6A-40E0-B981-7417103F1F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098180C9-1A6A-40E0-B981-7417103F1F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098180C9-1A6A-40E0-B981-7417103F1F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098180C9-1A6A-40E0-B981-7417103F1F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14AE8A06-AEF9-4B33-BF27-BA7F79AD54AE}
+	EndGlobalSection
+EndGlobal
